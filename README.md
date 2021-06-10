@@ -19,7 +19,7 @@
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-![Alt text](https://github.com/jhwang2525/code-refactor/blob/main/assets/images/mock%20up.PNG)
+![Alt text](https://github.com/jhwang2525/password-generator/blob/main/assets/mockup.png?raw=true)
 
 
 Application deployed at live URL: https://jhwang2525.github.io/Code-Refactor/

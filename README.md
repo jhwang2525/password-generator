@@ -22,4 +22,4 @@
 ![Alt text](https://github.com/jhwang2525/password-generator/blob/main/assets/mockup.png?raw=true)
 
 
-Application deployed at live URL: https://jhwang2525.github.io/Code-Refactor/
+Application deployed at live URL: https://jhwang2525.github.io/password-generator/
